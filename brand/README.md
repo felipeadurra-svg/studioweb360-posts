@@ -39,7 +39,32 @@ Bricolage Grotesque (300/400/600/700/800), embutida em base64 a partir de `fonts
 Posicionamento: no máximo ~5 slides com James; imagem com fade na base
 (`mask-image: linear-gradient(to bottom,#000 72%,transparent)`) saindo de trás de um card.
 
-Ainda não existem: James acenando, James segurando o celular.
+### Expressões extras (`james/expressoes/`, ~250×300 px, recortadas da folha de 20)
+Resolução menor: usar até ~200px de altura no layout de 420px (avatar, cantos, cards).
+Para destaque grande, preferir os PNGs da tabela acima.
+
+| Arquivo | Bom para |
+|---|---|
+| `acenando.png` | capa, chamada final, "oi!" |
+| `apontando-lado.png` | chamar atenção para número/card ao lado |
+| `apresentando.png` | apresentar um recurso, "olha isso" |
+| `maos-abertas.png` | "bem-vindo", oferta, "é simples assim" |
+| `segurando-celular.png` | painel no celular, WhatsApp |
+| `notebook.png` | plataforma, configuração, trabalho |
+| `prancheta.png` | formulário, cadastro, anotar pedido/agenda |
+| `ouvindo-headset.png` | ouvir áudio, atendimento |
+| `ideia-lampada.png` | dica, "sabia que…" |
+| `um-momento.png` | "atenção", "só um detalhe", regra importante |
+| `surpreso.png` | dado chocante, "você perdeu quanto?!" |
+| `pensando-2.png` | dúvida, pergunta, objeção |
+| `olhar-de-lado.png` | ironia, "o chatbot que você odiou" |
+| `bracos-cruzados.png` | confiança, autoridade |
+| `comemorando.png` | resultado, conquista, venda fechada |
+| `gargalhada.png` | humor, leveza |
+| `piscando-2.png` | "pode deixar", segredo |
+| `joinha-2.png` | aprovação, confirmação |
+| `coracao-maos.png` | agradecimento, cliente feliz |
+| `cafe.png` | madrugada/rotina, "enquanto você descansa" |
 
 ## Template
 `template/build_carrossel_funcionalidades.py` gera o HTML (componentes: barra, seta, bolhas,
