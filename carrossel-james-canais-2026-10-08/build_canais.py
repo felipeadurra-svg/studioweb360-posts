@@ -113,7 +113,7 @@ def orbit_icon(kind, label, t, s, z):
     op = "1" if z==3 else "0.92"
     return f'''<div style="position:absolute;left:{x-s/2:.0f}px;top:{y-s/2:.0f}px;z-index:{z};opacity:{op};display:flex;flex-direction:column;align-items:center;gap:4px;width:{s}px;">
 {ico(kind, s)}<span class="sans" style="font-size:8.5px;font-weight:600;letter-spacing:1px;color:rgba(255,255,255,0.85);background:rgba(13,24,18,0.75);padding:2px 7px;border-radius:10px;border:1px solid rgba(95,211,154,0.3);white-space:nowrap;">{label}</span></div>'''
-ICONS=[("wa","WHATSAPP",128,54,3),("ms","MESSENGER",52,54,3),("ig","INSTAGRAM",312,42,1),("go","GOOGLE",228,42,1)]
+ICONS=[("wa","WHATSAPP",128,54,3),("ms","MESSENGER",52,54,3),("ig","INSTAGRAM",326,42,1),("go","GOOGLE",228,42,1)]
 def ring(half):  # half: "back" (topo) ou "front" (base)
     pts=[opt(t) for t in (range(180,361,4) if half=="back" else range(0,181,4))]
     d="M"+" L".join(f"{x:.1f} {y:.1f}" for x,y in pts)
@@ -130,7 +130,7 @@ hero_art = f'''
 </svg>
 {ring("back")}
 {"".join(orbit_icon(k,l,t,sz,z) for k,l,t,sz,z in ICONS if z==1)}
-<img src="{HERO}" style="position:absolute;z-index:2;left:50%;transform:translateX(-50%);bottom:40px;height:332px;filter:drop-shadow(0 0 18px rgba(95,211,154,0.35));">
+<img src="{HERO}" style="position:absolute;z-index:2;left:50%;transform:translateX(-50%);bottom:18px;height:340px;filter:drop-shadow(0 0 18px rgba(95,211,154,0.35));">
 {ring("front")}
 {"".join(orbit_icon(k,l,t,sz,z) for k,l,t,sz,z in ICONS if z==3)}
 <div style="position:absolute;right:26px;top:196px;z-index:3;padding:7px 10px;border-radius:10px;background:rgba(13,24,18,0.75);border:1px solid rgba(95,211,154,0.35);">
