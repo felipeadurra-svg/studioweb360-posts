@@ -70,3 +70,24 @@ Para destaque grande, preferir os PNGs da tabela acima.
 `template/build_carrossel_funcionalidades.py` gera o HTML (componentes: barra, seta, bolhas,
 pills, cabeçalho numerado). `template/export_slides.py <html> <saida> 2.5714 <n_slides>` exporta PNGs.
 Publicação: JPG no repositório → URLs raw.githubusercontent.com → carrossel via Windsor (Instagram).
+
+### Expressões novas (out/2026, `james/expressoes/`, ~300 px, fundo transparente)
+Mesma regra de tamanho das extras: até ~200 px de altura no layout de 420 px.
+Não usar mais o James fazendo joinha (pedido do Felipe); as versões com joinha da folha nova não foram incluídas.
+
+| Arquivo | Bom para |
+|---|---|
+| `chocado.png` | mãos no rosto: notícia chocante, "você não vai acreditar", prejuízo |
+| `desconfiado.png` | braços cruzados, sobrancelha franzida: boato, "será?", mito x verdade |
+| `rindo-alto.png` | gargalhada de olhos fechados: humor, meme, situação absurda |
+| `pensando-3.png` | mão no queixo olhando pra cima: pergunta, quiz, "e se…" |
+| `acenando-2.png` | aceno com sorriso: abertura, "oi!", despedida, chamada final |
+| `apontando-voce.png` | aponta pra câmera e pisca: "é com você", "você que tem negócio", CTA |
+| `preocupado.png` | olhar triste: cliente perdido, dono sobrecarregado, problema |
+| `notebook-2.png` | no notebook sorrindo: painel, configuração, plataforma por dentro |
+| `comemorando-2.png` | punhos fechados: venda fechada, resultado, meta batida |
+| `oculos-escuros.png` | ajustando óculos escuros: tranquilidade, fim de semana, "deixa comigo" |
+| `bocejando.png` | bocejo: madrugada, cansaço do dono, mensagem às 23h |
+| `coracao-maos-2.png` | coração com as mãos: agradecimento, datas comemorativas, cliente feliz |
+| `segredo.png` | dedo nos lábios: dica, "segredo", bastidores |
+| `confuso.png` | coçando a cabeça: dúvida, áudio de 3 minutos, cliente confuso |
