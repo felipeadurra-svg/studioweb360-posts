@@ -91,3 +91,17 @@ Não usar mais o James fazendo joinha (pedido do Felipe); as versões com joinha
 | `coracao-maos-2.png` | coração com as mãos: agradecimento, datas comemorativas, cliente feliz |
 | `segredo.png` | dedo nos lábios: dica, "segredo", bastidores |
 | `confuso.png` | coçando a cabeça: dúvida, áudio de 3 minutos, cliente confuso |
+
+### Corpo inteiro (out/2026, `james/corpo-inteiro/`, ~250×630 px, fundo transparente)
+Para cenas de Reel e capas em que o James aparece de pé, inteiro ou cortado na cintura. As versões com joinha da folha (de pé e sentado à mesa) não foram incluídas.
+
+| Arquivo | Bom para |
+|---|---|
+| `corpo-apontando-cracha.png` | "sou eu", apresentar o James, apontar para um card ao lado |
+| `corpo-notebook.png` | segurando notebook: painel, configurar, plataforma |
+| `corpo-pensando.png` | mão no queixo: dúvida, pergunta, "e se…" |
+| `corpo-comemorando.png` | punhos pra cima: venda fechada, resultado, conquista |
+| `corpo-celular-andando.png` | andando ao telefone: atendimento em movimento, "atende onde você estiver" |
+| `corpo-tablet.png` | anotando no tablet: pedido, agenda, cadastro |
+| `corpo-apresentando.png` | mão aberta para o lado: apresentar recurso, card ou tela ao lado |
+| `corpo-cafe.png` | encostado com café: rotina, segunda de manhã, "enquanto você descansa" |
