@@ -2,6 +2,25 @@
 
 Use estes arquivos em todo post do @studioweb360.ia.
 
+## ⭐ ESTILO PADRÃO (a partir de 11/out/2026): "cinematográfico"
+Aprovado pelo Felipe como template para os próximos posts. Referência: `carrossel-negocio-vender-2026-10-13/`
+(gerador: `template/build_carrossel_cinematico.py <brand> <imagem-capa> <saida.html>`, depois `template/export_slides.py`).
+O estilo antigo (alternando claro/escuro, descrito mais abaixo) fica só como histórico.
+
+- **Capa = cena 3D do James em tela cheia** (ex.: `james/cenas/james-malabarismo-apps.png`, James de óculos
+  com WhatsApp/Instagram/Messenger orbitando). Imagem no topo, degradê escuro embaixo, selo de público
+  ("PRA QUEM ATENDE CLIENTE PELO CELULAR") e **frase-gancho grande focada na dor do empresário**, parte em verde com brilho.
+- **Todos os slides escuros** (`#06110C`) com brilho radial verde, vinheta e, às vezes, órbitas em linha fina — sem slides claros.
+- **Cada slide com uma composição diferente** (nada de repetir "card em cima + texto embaixo"): diagrama de fluxo,
+  medidor/gauge com número grande, tela dividida conversa ↔ painel, grade de agenda em perspectiva, QR/valor gigante etc.
+- Elementos em "vidro" (glass: gradiente translúcido, borda verde fina, sombra e brilho), ícones dos apps com brilho.
+- Selo numerado por etapa (`01 · COMO FUNCIONA`), título com parte em verde brilhante, texto de apoio curto.
+- Seta circular de deslizar à direita, barra de progresso com brilho.
+- Dourado `#F2C46D` só para "quente/valor" (lead quente, orçamento).
+- **Último slide:** James grande com brilho + pergunta fácil de responder nos comentários (com opções) +
+  bloco verde "Siga @studioweb360.ia" + "Comente JAMES · studioweb360.com.br".
+- PNGs do James com halo semitransparente: limpar alfa (< 60 → 0) antes de usar, senão aparece um retângulo.
+
 ## Cores
 | Token | Hex | Uso |
 |---|---|---|
