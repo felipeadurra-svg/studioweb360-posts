@@ -11,7 +11,8 @@ Aprovado pelo Felipe: os próximos posts seguem este padrão. Referência: `carr
   3–6. Demonstração em etapas numeradas (`01 · …`): configurar no painel → cliente usa na conversa → resultado no painel/canais → limite honesto (ex.: o dono confirma o pagamento).
   7. CTA com pergunta de comentário + "Siga" + "Comente JAMES".
 - Legenda: passo a passo em lista numerada, pergunta, "Comente JAMES", teste grátis de 2 dias, "(Telas ilustrativas com dados de demonstração.)".
-- Recursos da série: Pix ✅, agendamento + Google Agenda, resposta em áudio, 3 canais num lugar só, CRM, pedidos e estoque, WhatsApp por QR code ou API oficial.
+- **Posicionamento (Felipe, 12/out):** a StudioWeb360 é um **centro de gestão para empresas**, não só um atendente. Todo post deve deixar essa ideia: o James atende, e tudo cai organizado no painel (agenda, CRM, pedidos, cobrança).
+- Recursos da série (✅ = já feito): Pix ✅ · agenda completa (Google Agenda, lembrete na véspera, remarcar/cancelar, link do Meet) · áudio com 6 vozes · 3 canais num lugar só (WhatsApp, Direct e Messenger, todos funcionando) · vários clientes ao mesmo tempo · outros idiomas · passa a conversa pro dono em caso delicado / dono assume a conversa · orçamentos + link Mercado Pago · CRM (quem esfriou ou sumiu) · pedidos e estoque · painel em tempo real com alertas e números do dia · configuração guiada que lê o site do negócio · testar o James como cliente · WhatsApp por QR code ou API oficial.
 - Evitar `filter:drop-shadow` junto com `mask-image` no PNG do James: gera um retângulo visível.
 
 ## ⭐ ESTILO PADRÃO (a partir de 11/out/2026): "cinematográfico"
