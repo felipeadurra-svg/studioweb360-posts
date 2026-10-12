@@ -2,6 +2,18 @@
 
 Use estes arquivos em todo post do @studioweb360.ia.
 
+## ⭐ LINHA EDITORIAL (a partir de 12/out/2026): "série de funcionalidades"
+Aprovado pelo Felipe: os próximos posts seguem este padrão. Referência: `carrossel-pix-james-2026-10-17/` (`build.py`).
+- **Um recurso da plataforma por post**, mostrado funcionando (tela simulada de conversa ou painel), sem gravar tela.
+- Mesmo visual cinematográfico abaixo. Estrutura de 7 slides:
+  1. Capa: James (corpo inteiro ou cena 3D) + elemento do recurso + gancho focado na dor/resultado.
+  2. Problema: a situação real que dá errado sem o recurso (vermelho só aqui).
+  3–6. Demonstração em etapas numeradas (`01 · …`): configurar no painel → cliente usa na conversa → resultado no painel/canais → limite honesto (ex.: o dono confirma o pagamento).
+  7. CTA com pergunta de comentário + "Siga" + "Comente JAMES".
+- Legenda: passo a passo em lista numerada, pergunta, "Comente JAMES", teste grátis de 2 dias, "(Telas ilustrativas com dados de demonstração.)".
+- Recursos da série: Pix ✅, agendamento + Google Agenda, resposta em áudio, 3 canais num lugar só, CRM, pedidos e estoque, WhatsApp por QR code ou API oficial.
+- Evitar `filter:drop-shadow` junto com `mask-image` no PNG do James: gera um retângulo visível.
+
 ## ⭐ ESTILO PADRÃO (a partir de 11/out/2026): "cinematográfico"
 Aprovado pelo Felipe como template para os próximos posts. Referência: `carrossel-negocio-vender-2026-10-13/`
 (gerador: `template/build_carrossel_cinematico.py <brand> <imagem-capa> <saida.html>`, depois `template/export_slides.py`).
